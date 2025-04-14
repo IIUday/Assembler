@@ -1,7 +1,7 @@
 
 # ⚙️ Two-Pass Assembler Project
 
-A simple yet functional **Two-Pass Assembler** developed using **C Language**.  
+A simple yet functional **Two-Pass Assembler** developed using **C++ Language**.  
 This project translates human-readable **Assembly Language Code** into corresponding **Machine Code**, simulating the core functionality of a real-world assembler.
 
 ---
@@ -22,7 +22,7 @@ This process ensures accurate address resolution for labels and jump statements,
 
 ## 💻 Technologies Used
 
-- **Programming Language:** C
+- **Programming Language:** C++
 - **Compiler:** GCC / Clang  
 - **Platform:** Linux / Windows
 
@@ -38,7 +38,7 @@ This process ensures accurate address resolution for labels and jump statements,
 
 2. **Compile the Code:**
    ```bash
-   gcc assembler.c -o assembler
+   g++ Assembler.cpp -o assembler
    ```
 
 3. **Run the Assembler:**
