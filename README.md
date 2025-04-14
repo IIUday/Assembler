@@ -52,7 +52,7 @@ This process ensures accurate address resolution for labels and jump statements,
 
 ```
 assembler-project/
-├── assembler.c
+├── Assembler.cpp
 ├── README.md
 ```
 
